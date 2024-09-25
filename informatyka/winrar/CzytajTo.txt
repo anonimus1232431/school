@@ -1,0 +1,34 @@
+  To archiwum zawiera WinRARa - wielofunkcyjny mened¿er archiwów
+
+   W³aœciwoœci:
+
+ * WinRAR posiada oryginalny algorytm kompresji. Oferuje wysoki stopieñ
+   kompresji, szczególnie w przypadku plików wykonywalnych, bibliotek obiektów,
+   du¿ych plików tekstowych itp.
+
+ * Format RAR jako taki nie ogranicza rozmiaru archiwum i plików w nim
+   zawartych, ani nawet liczby plików w archiwum. Takie ograniczenia mo¿e
+   jednak wprowadzaæ u¿ywany system operacyjny, system plików czy te¿ iloœæ
+   dostêpnej pamiêci.
+
+ * WinRAR oferuje kompletn¹ obs³ugê archiwów RAR i ZIP 2.0 oraz jest w stanie
+   wypakowaæ pliki z archiwów 7Z, ARJ, BZ2, CAB, GZ, JAR, LZ, LZH, TAR, XZ,
+   Z i ZST, rozkodowaæ pliki UUE/XXE oraz wydobyæ zawartoœæ plików ISO (obraz
+   p³yty CD/DVD).
+
+ * WinRAR posiada zarówno interfejs okienkowy, jak równie¿ tradycyjny interfejs
+   linii poleceñ.
+
+ * WinRAR umo¿liwia tworzenie „ci¹g³ych” archiwów, co mo¿e podnieœæ stopieñ
+   kompresji o 10-50% w stosunku do zwyk³ych metod, szczególnie w przypadku
+   archiwizowania du¿ej liczby ma³ych plików.
+
+ * WinRAR oferuje mo¿liwoœæ tworzenia i modyfikowania samorozpakowuj¹cych siê
+   archiwów (SFX).
+
+ * WinRAR umo¿liwia tworzenie wieloczêœciowych archiwów SFX.
+
+ * Opcjonalnie dodawane dane naprawcze chroni¹ archiwum przed uszkodzeniem.
+
+ * WinRAR oferuje wiele funkcji, jak szyfrowanie plików, dodawanie komentarza
+   archiwum, czy przechowywanie danych zabezpieczeñ systemu plików NTFS.

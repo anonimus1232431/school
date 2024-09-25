@@ -1,0 +1,8 @@
+Napisz tutorial jak zrobić wykres przestawny
+
+1.Zaznacz komórkę
+2.Wybierz pozycję Wstaw i wybierz pozycje wykresu przestawnego 
+3.wybierz miejsce w którym ma pojewiać się wykres przestwany
+4.Wybierz przycisk OK
+5.Wybierz pola, które mają być wyświetlane w menu
+H47@izg7zGnu&WC&6jo!73I^

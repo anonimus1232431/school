@@ -1,0 +1,35 @@
+7zxa.dll          biblioteka dekompresji formatu 7z
+CoNowego.txt      opis nowo˜ci w tej wersji
+CzytajTo.txt      kr¢tki opis WinRARa
+Default.SFX       domy˜lny moduˆ SFX dla Windows
+Default64.SFX     domy˜lny moduˆ SFX dla Windows (wersja 64-bitowa)
+Descript.ion      opisy plik¢w
+Licencja.txt      umowa licencyjna
+Order.htm         informacje rejestracyjne
+Rar.exe           RAR w wersji dla konsoli
+Rar.txt           pomoc dla RARa w wersji dla konsoli
+RarExt.dll        rozszerzenie powˆoki Windows
+RarExt32.dll      rozszerzenie powˆoki Windows (wersja 32-bitowa)
+RarExt64.dll      rozszerzenie powˆoki Windows (wersja 64-bitowa)
+RarExtInstaller.exe  narz©dzie do instalowania i odinstalowania rozszerzenia powˆoki Windows
+RarExtLogo.altform-unplated_targetsize-32.png plik graficzny dla rozszerzenia powˆoki
+RarExtLogo.altform-unplated_targetsize-48.png plik graficzny dla rozszerzenia powˆoki
+RarExtLogo.altform-unplated_targetsize-64.png plik graficzny dla rozszerzenia powˆoki
+RarExtLogo_Default.altform-unplated_targetsize-32.png plik graficzny dla rozszerzenia powˆoki
+RarExtLogo_Default.altform-unplated_targetsize-48.png plik graficzny dla rozszerzenia powˆoki
+RarExtLogo_Default.altform-unplated_targetsize-64.png plik graficzny dla rozszerzenia powˆoki
+RarExtPackage.msix   uzupeˆniaj¥cy plik dla rozszerzenia powˆoki
+RarNew.dat        szablon dla archiwum RAR
+RarFiles.lst      lista kolejno˜ci plik¢w dla ci¥gˆego archiwizowania
+Resources.pri     uzupeˆniaj¥cy plik dla rozszerzenia powˆoki
+RarLng.dll        zasoby j©zykowe
+Uninstall.exe     program deinstalacyjny
+Uninstall.lst     lista plik¢w do deinstalacji
+UnRAR.exe         darmowy dekompresor rozpakowuj¥cy archiwa formatu RAR
+WinCon.SFX        moduˆ SFX dla Windows w wersji dla konsoli
+WinCon64.SFX      moduˆ SFX dla Windows w wersji dla konsoli (wersja 64-bitowa)
+WinRAR.exe        WinRAR
+WinRAR.chm        Pomoc dla WinRARa
+Zip.SFX           moduˆ SFX dla archiw¢w ZIP
+Zip64.SFX         moduˆ SFX dla archiw¢w ZIP (wersja 64-bitowa)
+ZipNew.dat        szablon dla archiwum ZIP
