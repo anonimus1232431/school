@@ -1,0 +1,7 @@
+smb://10.0.2.3/tgoebel
+net use x: //10.0.2.3/tgoebel
+WPF
+
+strona szkolna o programowaniu
+programowanie.tk.krakow.pl
+mcs win.cs -r:System.Windows.Forms.dll -r:System.Drawing.dll
