@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let K = prompt("Podaj ocene z metematyki");
+        
+        switch(K){
+            case "1": 
+            
+            K="niedostateczny";
+            break;
+            case "2": 
+            K="dopuszczajacy";
+            break;
+            case "3": 
+            K+"dostateczny"
+            break;
+            case "4": 
+           K="dobry";
+            break;
+            case "5": 
+            K="bardzo dobry";
+            break;
+            case "6": 
+           K="celujacy";
+            break;
+            default: 
+            document.write("Nie ma takiej oceny ");
+        }
+        document.write(K);
+    </script>
+</body>
+</html>

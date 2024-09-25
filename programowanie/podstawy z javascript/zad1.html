@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        let D = prompt("Podaj ilosc dni");
+        let K = prompt("Podaj kwote 1 dnia");
+        K=K*1;
+        sum=0;
+        for(i=1;i<=D;i++){
+            document.write("Kwota dnia "+i+" rowna sie:"+K+"<br>");
+            sum=sum+K;
+            K=K+2;
+            document.write("Na koncie masz:"+sum+"<br>");
+        }
+        
+    </script>
+</body>
+</html>

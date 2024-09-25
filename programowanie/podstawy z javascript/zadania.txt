@@ -1,0 +1,30 @@
+zad.1
+    Wykonaj zestawienie kwot otrzymanych w ciagu D dni jezeli kwota z 1 dnia wynosi K i kazdego dnia zwieksza sie ona w stosunku do dnia poprzedniego o 2 zl 
+    (D i K pobieramy od urzytkownika).
+
+zad.2
+    Wypisac wszystkie liczby 3 cyfrowe nieparzyste i pogrubic te podzielnie przez 11.
+
+zad.3
+    Pobierz od urzytkownika ocene z matematyki (cyfrowa) i przy pomocy switch zamien ja na nazwe
+
+zad.4
+    Pobierz od urzytkownika dwie liczby calkowite oraz dzialanie jakie chcesz na nie wykonac i wynik w czytelnej postaci wysietl na stronie.
+
+zad.5
+    Od urzytkownika Pobierz 3 wartosci liczbowe wyznacz ich srednia arytmetyczna jezeli jest ona wieksza od 10 to policz jej 3 krotnosc
+zad.6
+    Pobierz od urzytkownika poczatkowa kwote deponowana w banku okres oszczedzania  w latach pobieramy od urzytkownika. Bank oferuje oprocentowanie 5% w skali roku
+    kapitalizacja pol roczna , wykonaj zestawienie pokazujace po kazdym pol roczu kwote zaoszczedzonych pieniedzy
+zad.7
+    Od urzytkownika pobrac nazwisko zapytac czy jest uczniem jesli tak to poprosic go o podanie nazwy szkoly i wyslwietlic nazwe szkoly , jesli nie to okienkiem wypisac kamunikat 
+    "Tylko dla uczniow".
+zad.8
+    Od urzytkownika pobieramy liczbe naturalna wypisac wszystkie liczby od 1 do n lacznie z nia pogrobic nieparzyste wyznaczyc ich sume.
+zad.9
+    Napisz funkcje wyznaczajaca potege z liczby nastepnie wywolaj ta funkcje dla 2 liczb pobranych od urzytkownika jezeli wynik potegi jest wiekszy od 100 to wyslwietl go na czerwono
+    a jak nie przekracza 100 to na zielono
+zad.10
+    W zaleznosci od wyboru urzytkownika wyznacz kwadrat lub szescian podanej liczby.
+zad.11
+    Napisz funkcje ktora dla dowolnej liczby zwraca liczbe dwocyfrowa ktorej jednosci i dziesiatki sa zamienione kolejnoscia

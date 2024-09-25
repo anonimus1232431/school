@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+                let k = prompt("Podaj poczatkowa kwote deponowana");
+                k=k*1;
+                let b = prompt("Podaj ilosc lat");
+                b=b*1;
+                document.write("Kwota poczatkowa wynosi:"+k+"zl<br>");
+                z=0;
+                c=0
+                for(a=1;a<=b;a++){
+                    document.write("Rok:"+a+"<br>");
+                    z=k*1.025;
+                    c++;
+                    k=z;
+                    document.write(c+" pol rocze wynosi:"+z+"zl<br>");
+                    z=k*1.025;
+                    k=z
+                    c++;
+                    document.write(c+" pol rocze wynosi:"+z+"zl<br>");
+                }
+    </script>
+</body>
+</html>

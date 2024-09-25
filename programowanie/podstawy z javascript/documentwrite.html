@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+<body>
+    <script>
+        document.write("Hello word <br>");
+        alert("Witaj na stronie");
+     let a = confirm("Czy jestes czlowiekiem?");
+     if(a==true){
+        document.write("Witaj czlowieku <br>");
+     }
+     else{
+        document.write("Strona nie dla ciebie robocie <br>");
+     }
+     let w = prompt("Podaj wiek","18");
+     if(w>=18){
+        document.write("Pelnoletni <br>");
+     }
+     else{
+        document.write("dzieciak <br>");
+     }
+     let par=8;
+     for(var i=8;i<98;i+=2){
+        par+=2;
+        if(par%10==0){
+        document.write("<b>"+par +" </b>");
+        }
+        else{
+        document.write(par +" ");
+        }
+       
+        
+     }
+    </script>
+</body>
+</html>

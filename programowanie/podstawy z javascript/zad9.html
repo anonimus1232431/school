@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let k = prompt("Wybierz uzytkownika(1 na kwadrat 2 na szescian)")
+        let a = prompt("Podaj liczbe");
+        a=a*1;
+        k=k*1;
+        switch(k){
+            case 1: b=2;
+            break;
+            case 2: b=3;
+            break;
+            default: document.write("Nie ma takiej liczby ");
+        }
+        if(potega(a,b)>100){
+        document.write("<font color='red'"+potega(a,b)+"</font>");
+        }
+        else{
+            document.write("<font color='green'"+potega(a,b)+"</font>");
+        }
+            function potega(a,b){
+             w=a;
+            for(i=0;i<b;i++){
+                w=w*a;
+            }
+            return w;
+        }
+    </script>
+</body>
+</html>
