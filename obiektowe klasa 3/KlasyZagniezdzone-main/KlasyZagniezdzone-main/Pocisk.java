@@ -31,8 +31,8 @@ public class Pocisk {
 
         public Odlamek(int numer) {
             this.numerOdlamka = numer;
-            this.wektorX = random.nextInt(-10, 10);
-            this.wektorY = random.nextInt(-10, 10);
+            this.wektorX = random.nextInt(-20, 20);
+            this.wektorY = random.nextInt(-20, 20);
             this.wektoryOdlamkow = new ArrayList<>();  // Initialize the list for vectors
             wektoryOdlamkow.add(new Vector(wektorX, wektorY));  // Add initial vector to the list
         }
@@ -46,19 +46,12 @@ public class Pocisk {
         public void komunikatt() {
             int liczbaOdlamkow = random.nextInt(5) + 1;
             for (int i = 1; i <= liczbaOdlamkow; ++i) {
-                wektorX = random.nextInt(-10, 10);
-                wektorY = random.nextInt(-10, 10);
+                wektorX = random.nextInt(-20, 20);
+                wektorY = random.nextInt(-20, 20);
                 wektoryOdlamkow.add(new Vector(wektorX, wektorY));  // Add new vector to the list
 
                 System.out.println("Wygenerowano odlamek odlamka " + i +
                         " o wektorze przesunięcia (x: " + wektorX + ", y: " + wektorY + ")");
-            }
-
-            // Optional: print all the vectors in the list
-            System.out.println("Wszystkie wektory dla odłamka " + this.numerOdlamka + ": ");
-            for (Vector v : wektoryOdlamkow) {
-                System.out.println("Vector (x: " + v.x + ", y: " + v.y + ")");
-
             }
             System.out.println();
         }
