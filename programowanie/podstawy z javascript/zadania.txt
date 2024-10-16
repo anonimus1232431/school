@@ -1,30 +1,73 @@
-zad.1
-    Wykonaj zestawienie kwot otrzymanych w ciagu D dni jezeli kwota z 1 dnia wynosi K i kazdego dnia zwieksza sie ona w stosunku do dnia poprzedniego o 2 zl 
-    (D i K pobieramy od urzytkownika).
+<!DOCTYPE html>
+<html lang="en">
 
-zad.2
-    Wypisac wszystkie liczby 3 cyfrowe nieparzyste i pogrubic te podzielnie przez 11.
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" />
+  <title>Java</title>
+</head>
 
-zad.3
-    Pobierz od urzytkownika ocene z matematyki (cyfrowa) i przy pomocy switch zamien ja na nazwe
+<body>
 
-zad.4
-    Pobierz od urzytkownika dwie liczby calkowite oraz dzialanie jakie chcesz na nie wykonac i wynik w czytelnej postaci wysietl na stronie.
+  <script>
+  /*   a = "alamakota";
+	 var array = ["red","blue","green","yellow"];
+ 
+	for(let i=0;i<a.length;i++){
+    let b =  Math.floor(Math.random() * 4);
+	document.write(a[i].fontcolor(array[b]));
+	}
 
-zad.5
-    Od urzytkownika Pobierz 3 wartosci liczbowe wyznacz ich srednia arytmetyczna jezeli jest ona wieksza od 10 to policz jej 3 krotnosc
-zad.6
-    Pobierz od urzytkownika poczatkowa kwote deponowana w banku okres oszczedzania  w latach pobieramy od urzytkownika. Bank oferuje oprocentowanie 5% w skali roku
-    kapitalizacja pol roczna , wykonaj zestawienie pokazujace po kazdym pol roczu kwote zaoszczedzonych pieniedzy
-zad.7
-    Od urzytkownika pobrac nazwisko zapytac czy jest uczniem jesli tak to poprosic go o podanie nazwy szkoly i wyslwietlic nazwe szkoly , jesli nie to okienkiem wypisac kamunikat 
-    "Tylko dla uczniow".
-zad.8
-    Od urzytkownika pobieramy liczbe naturalna wypisac wszystkie liczby od 1 do n lacznie z nia pogrobic nieparzyste wyznaczyc ich sume.
-zad.9
-    Napisz funkcje wyznaczajaca potege z liczby nastepnie wywolaj ta funkcje dla 2 liczb pobranych od urzytkownika jezeli wynik potegi jest wiekszy od 100 to wyslwietl go na czerwono
-    a jak nie przekracza 100 to na zielono
-zad.10
-    W zaleznosci od wyboru urzytkownika wyznacz kwadrat lub szescian podanej liczby.
-zad.11
-    Napisz funkcje ktora dla dowolnej liczby zwraca liczbe dwocyfrowa ktorej jednosci i dziesiatki sa zamienione kolejnoscia
+  c = "ala ma kota,";
+  var array = c;\
+  c.replace(/l/g,"");
+  c.replace(/,/g,"");
+  c.replace(/ /g,"");
+  document.write(c);
+*/
+
+
+
+
+//Dziala
+let a = "ala ma kota";
+let i = 1
+while(i<8){
+document.write(a.fontsize(i)+"<br>");
+i=i+1;
+if(i==7){
+for(j=7;j>0;j--){
+document.write(a.fontsize(j)+"<br>");
+}
+d=prompt("Chcesz petle?");
+if(d==1){
+i=1;
+}
+else{
+i=i+1;}
+}
+}
+
+var tab2= new Array();
+for(var j=0;j<20;j++){
+tab2[j] = Math.floor(Math.random() * 20+i) ;
+
+for(var j in tab2){
+document.write(tab2[j]+"<br>");
+}
+var tab = new Array();
+tab["jablko"] =1.99;
+tab["gruszka"] =2.99;
+tab["pomarancza"] =4.99;
+tab["cytryna"] =5.99;
+for(var i in tab){
+var a = tab2[j];
+document.write(i+" cena jednostowa "+tab[i]+"zl, ilosc: "+a+"<br>");
+var koszt = tab[i]*a;
+document.write("
+}}
+  </script>
+</body>
+
+</html>
